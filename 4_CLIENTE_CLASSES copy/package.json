@@ -1,0 +1,13 @@
+{
+  "name": "2_projeto_classe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Denis <denisdiogo18@hotmail.com> (http://www.horadecodar.com.br/)",
+  "license": "MIT",
+  "type": "module"
+}
